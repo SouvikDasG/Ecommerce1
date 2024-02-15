@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Island+Moments&family=Italiana&family=Itim&display=swap');
+.BigFooter{
+    background-color: #807979;
+    padding-top: 20px;
+}
+.footer-main h1{
+    font-family: 'italiana';
+}
+.footer-main {
+    font-family: 'itim';
+}
+.foot{
+    line-height: 6vh;
+}
+.BigFooter input{
+    width: 80%;
+    height: 5vh;
+    background-color: #D9D9D9;
+    color: rgb(0, 0, 0);
+}
+.BigFooter button{
+    width: 20%;
+    height: 5vh;
+    background-color:#CEAD9B ;
+    color: black;
+}
+.footer-i{
+
+}

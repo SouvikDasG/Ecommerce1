@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Island+Moments&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Island+Moments&family=Italiana&display=swap');
+.page1 h1{
+    position: absolute; 
+    left: 0; 
+    right: 0; 
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 80vw;
+    text-align: center;
+    top: 0%;
+    color: white;
+    font-family:  'Island Moments', cursive;;
+}
+
+.page2 {
+    padding: 20px;
+}
+section .page1{
+    background: linear-gradient(to right, #807979 0%, #807979 50%, #d1735e 50%, #d1735e 100%);
+
+    
+}
+.home-extra ul li{
+    height: 6vw;
+}
+.home-description button{
+    transition: all ease 0.5s;
+}
+.home-description button:hover{
+    color: rgb(255, 255, 255);
+    transform: scale(1.2);
+}
+.home-description .female{
+    transition: all ease 0.5s;
+}
+.home-description #female{
+    transition: all ease 0.5s;
+    }
+.home-description:hover .female{
+    opacity: 0;
+}
+.home-description:hover  #image{
+    opacity: 1;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    height: 90%;
+    top: 20%;
+    
+}
+.page2{
+    background-color: #807979;
+    overflow: hidden;
+    
+}
+.page2 .swiper-wrapper{
+    display: flex;
+    gap: 30px;
+    padding-left: 2vw;
+    padding-top: 20vh;
+}
+.page5 .swiper-wrapper{
+    display: flex;
+    gap: 160px;
+    max-width: 300px;
+}
+.swiper{
+    
+    width: 100%;
+}
+.page3{
+    background-color: #cead9b;
+}
+.page4 h1{
+    font-family:'Island Moments';
+    font-size: 8.5vh;
+    top: 0%;
+}
+.page4 img{
+    border-radius: 200px 0 0 0;
+
+}
+.page5{
+    background-color: #807979;
+}
+.blocl{
+    background-color:;
+}
+.page5 h1{
+    font-family: 'Italiana';
+}
+.blocl {
+    background-color:#cead9b;
+}
+.blocl {
+    
+}

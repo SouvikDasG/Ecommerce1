@@ -1,0 +1,8 @@
+.items{
+   color: rgb(0, 0, 0);
+   font-family: 'italiana';
+}
+.items li:hover{
+    color: brown;
+    cursor: grab;
+}

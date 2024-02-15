@@ -1,0 +1,17 @@
+.linkss li:hover{
+background-color: rgba(80, 80, 80, 0.346) !important;
+border-radius: 20px;
+padding: 5px;
+color: black;
+}
+.linkss li{
+    padding: 5px;
+    transition: all ease 0.5s;
+}
+button{
+    
+}
+.navbar{
+    font-family:'Italiana', sans-serif;
+    background: linear-gradient(to right, #807979 0%, #807979 50%, #d1735e 50%, #d1735e 100%);
+}
